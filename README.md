@@ -1,1 +1,1 @@
-# rate_my_prof
+# rate-my-professor
